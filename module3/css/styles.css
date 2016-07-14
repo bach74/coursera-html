@@ -1,0 +1,41 @@
+#navbar-bg {
+    background-color: #A22937;
+}
+
+#my-navbar-collapse a:visited, a:link {
+    color: #ffffff;
+}
+#my-navbar-collapse a:hover {
+    color: #F23300;
+}
+
+
+#main-text div div div {
+    height: auto;
+}
+ 
+#desc1, #desc2, #desc3 {
+    height: 700px;
+  	border: solid;
+  	border-width: 1px;
+  	border-color: #381407;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+
+#main-text h3.text-center {
+    margin-top:0px;
+    margin-bottom:15px;
+}
+
+#desc1{
+	background-color: #F23300;
+}
+#desc2{
+	background-color: #76347E;
+}
+#desc3{
+	background-color: #A22937;
+}
+ 
